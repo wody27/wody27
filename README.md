@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning iOS
+🌱 I’m currently learning iOS 🍏
 <!--
 **wody27/wody27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
