@@ -3,8 +3,11 @@
 🌱 I’m currently learning 
 
 - iOS🍎
-- Node 🔙
-- ReactJS 🐥
+- Node.js 
+- ReactJS🐥
+
+👉 [What I Did](https://www.notion.so/Lee-JaeYong-3feb909f663740f282367a0c94481083)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwody27%2Fhit-counter&count_bg=%231DD399&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FDF9F9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxwodyd98@gmail.com)](mailto:maxwodyd98@gmail.com)
