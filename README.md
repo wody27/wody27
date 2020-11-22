@@ -3,7 +3,6 @@
 🌱 I’m currently learning 
 
 - iOS🍎
-- Node.js 
 - ReactJS🐥
 
 👉 [What I Did](https://www.notion.so/Lee-JaeYong-3feb909f663740f282367a0c94481083)
