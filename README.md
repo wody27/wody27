@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning 
-
-- iOS🍎
-- ReactJS🐥
-
-블로그 👉 [wodyios](https://wodyios.tistory.com)
+🍎 Want to be a great iOS Developer
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwody27%2Fhit-counter&count_bg=%231DD399&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FDF9F9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
